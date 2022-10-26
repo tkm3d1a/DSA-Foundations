@@ -1,0 +1,24 @@
+Left Pivot ------------- 161
+Right Pivot ------------ 191
+Random Pivot ----------- 174
+Median-of-three Pivot -- 151
+-------QuickSort10k.txt--------
+Left Pivot ------------- 155432
+Right Pivot ------------ 153675
+Random Pivot ----------- 153263
+Median-of-three Pivot -- 140564
+QuickSort10kR.txt
+Left Pivot ------------- 49985001
+Right Pivot ------------ 49985001
+Random Pivot ----------- 143661
+Median-of-three Pivot -- 11087773
+QuickSort10kSemi2k.txt
+Left Pivot ------------- 222241
+Right Pivot ------------ 189490
+Random Pivot ----------- 143831
+Median-of-three Pivot -- 288132
+QuickSort10kSemi4k.txt
+Left Pivot ------------- 193849
+Right Pivot ------------ 208742
+Random Pivot ----------- 149800
+Median-of-three Pivot -- 205565

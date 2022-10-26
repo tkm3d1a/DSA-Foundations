@@ -1,0 +1,17 @@
+File Sorted,Sort Mode,Comparisons Made
+QuickSort10k.txt,First index pivot,155432
+QuickSort10k.txt,Last index pivot,153675
+QuickSort10k.txt,Random index pivot,146178
+QuickSort10k.txt,Median-of-three pivot,140564
+QuickSort10kR.txt,First index pivot,49985001
+QuickSort10kR.txt,Last index pivot,49985001
+QuickSort10kR.txt,Random index pivot,149587
+QuickSort10kR.txt,Median-of-three pivot,11087773
+QuickSort10kSemi2k.txt,First index pivot,222241
+QuickSort10kSemi2k.txt,Last index pivot,189490
+QuickSort10kSemi2k.txt,Random index pivot,150086
+QuickSort10kSemi2k.txt,Median-of-three pivot,288132
+QuickSort10kSemi4k.txt,First index pivot,193849
+QuickSort10kSemi4k.txt,Last index pivot,208742
+QuickSort10kSemi4k.txt,Random index pivot,158328
+QuickSort10kSemi4k.txt,Median-of-three pivot,205565
